@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://alistarle.me/"
+baseurl                 = "https://blog.alistarle.me/"
 DefaultContentLanguage  = "en"
 title                   = "Victor Coutellier blog"
 theme                   = "hugo-future-imperfect-slim"
